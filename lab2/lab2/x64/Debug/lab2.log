@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\User\github-classroom\oplab2-KaliuzhnaMariia\lab2\lab2\lab2.cpp(37,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\github-classroom\oplab2-KaliuzhnaMariia\lab2\lab2\lab2.cpp(44,34): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\github-classroom\oplab2-KaliuzhnaMariia\lab2\lab2\lab2.cpp(45,34): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\github-classroom\oplab2-KaliuzhnaMariia\lab2\lab2\lab2.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> C:\Users\User\github-classroom\oplab2-KaliuzhnaMariia\lab2\x64\Debug\lab2.exe
